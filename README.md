@@ -21,21 +21,25 @@ Currently, I specialize in optimizing machine learning models and developing dat
   &nbsp;&nbsp;
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/>
   &nbsp;&nbsp;
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="Json" title="Json"/>
+  &nbsp;&nbsp;
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" alt="XML" title="XML"/>
+  &nbsp;&nbsp;
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter"/>
   &nbsp;&nbsp;
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" title="SQL"/>
   &nbsp;&nbsp;
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker"/>
   &nbsp;&nbsp;
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes.svg" alt="Kubernetes" title="Kubernetes"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes"/>
+  &nbsp;&nbsp;
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/portainer/portainer-original.svg" alt="Portainer" title="Portainer"/>
   &nbsp;&nbsp;
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>
   &nbsp;&nbsp;
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="R" title="Linux"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>
   &nbsp;&nbsp;
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" alt="Moodle" title="Moodle"/>
-  &nbsp;&nbsp;
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Moodle" title="AWS"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu"/>
   &nbsp;&nbsp;
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" title="Apache"/>
   &nbsp;&nbsp;
@@ -43,29 +47,26 @@ Currently, I specialize in optimizing machine learning models and developing dat
   &nbsp;&nbsp;
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" title="Bash"/>
   &nbsp;&nbsp;
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" alt="SSH" title="SSH"/>
+  &nbsp;&nbsp;
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" alt="Moodle" title="Moodle"/>
+  &nbsp;&nbsp;
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="Wordpress" title="Wordpress"/>
+  &nbsp;&nbsp;
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS"/>
   &nbsp;&nbsp;
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare"/>
   &nbsp;&nbsp;
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" title="Google Cloud"/>
   &nbsp;&nbsp;
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="Json" title="Json"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino"/>
+  &nbsp;&nbsp;
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" title="Raspberry Pi"/>
   &nbsp;&nbsp;
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="Opencv" title="Opencv"/>
   &nbsp;&nbsp;
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pfsense/pfsense-original.svg" alt="pfsense" title="pfsense"/>
-  &nbsp;&nbsp;
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/portainer/portainer-original.svg" alt="Opencv" title="Opencv"/>
-  &nbsp;&nbsp;
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" title="Raspberry Pi"/>
-  &nbsp;&nbsp;
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" alt="SSH" title="SSH"/>
-  &nbsp;&nbsp;
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu"/>
-  &nbsp;&nbsp;
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="Wordpress" title="Wordpress"/>
-  &nbsp;&nbsp;
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" alt="XML" title="XML"/>
+
 </p>
 
 ---
