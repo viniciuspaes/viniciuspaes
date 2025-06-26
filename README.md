@@ -81,4 +81,6 @@ Currently, I specialize in optimizing machine learning models and developing dat
 
 -->
 
+<!--
 ![snake animation](https://github.com/viniciuspaes/viniciuspaes/blob/output/github-contribution-grid-snake.svg)
+-->
