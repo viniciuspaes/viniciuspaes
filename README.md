@@ -1,4 +1,10 @@
-## Hi there 👋
+## Vinicius Paes 👋
+
+###👨‍💻 About Me
+
+With extensive experience in Data Science, Machine Learning, AI and Computer Vision, I have worked across multiple industries, leading cutting-edge projects and contributing to innovative solutions. From founding and scaling startups to delivering data-driven insights for large organizations like Petrobras, I have built a versatile skill set spanning full-stack development, cloud computing, and AI implementation.
+
+Currently, I specialize in optimizing machine learning models and developing data-driven solutions to solve real-world problems, driving efficiency and impact. Passionate about research and development, I continue to push the boundaries of AI to improve processes and drive technological evolution.
 
 <!--
 **viniciuspaes/viniciuspaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
