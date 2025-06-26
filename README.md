@@ -28,6 +28,16 @@ Currently, I specialize in optimizing machine learning models and developing dat
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker"/>
   &nbsp;&nbsp;
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>
+  &nbsp;&nbsp;
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="R" title="Linux"/>
+  &nbsp;&nbsp;
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" alt="Moodle" title="Moodle"/>
+  &nbsp;&nbsp;
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Moodle" title="AWS"/>
+  &nbsp;&nbsp;
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" title="Apache"/>
+  &nbsp;&nbsp;
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" title="Bash"/>
 </p>
 
 ---
