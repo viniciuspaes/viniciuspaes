@@ -37,6 +37,8 @@ Currently, I specialize in optimizing machine learning models and developing dat
   &nbsp;&nbsp;
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>
   &nbsp;&nbsp;
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="Opencv" title="Opencv"/>
+  &nbsp;&nbsp;
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/>
   &nbsp;&nbsp;
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu"/>
@@ -55,17 +57,15 @@ Currently, I specialize in optimizing machine learning models and developing dat
   &nbsp;&nbsp;
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS"/>
   &nbsp;&nbsp;
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" title="Google Cloud"/>
+  &nbsp;&nbsp;
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" title="Cloudflare"/>
   &nbsp;&nbsp;
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" title="Google Cloud"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pfsense/pfsense-original.svg" alt="pfsense" title="pfsense"/>
   &nbsp;&nbsp;
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino"/>
   &nbsp;&nbsp;
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" title="Raspberry Pi"/>
-  &nbsp;&nbsp;
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="Opencv" title="Opencv"/>
-  &nbsp;&nbsp;
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pfsense/pfsense-original.svg" alt="pfsense" title="pfsense"/>
 
 </p>
 
