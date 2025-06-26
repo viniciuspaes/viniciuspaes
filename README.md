@@ -30,6 +30,14 @@ Currently, I specialize in optimizing machine learning models and developing dat
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>
 </p>
 
+---
+
+## 📊 Stats
+
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciuspaes&show_icons=true&theme=algolia&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspaes&layout=compact&theme=algolia" />
+</p>
 
 <!--
 **viniciuspaes/viniciuspaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
